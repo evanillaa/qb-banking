@@ -30,5 +30,5 @@ files {
     'nui/scripting/jquery-ui.js',
     'nui/style.css',
     'nui/index.html',
-    'nui/qb-banking.js',
+    'nui/*.js',
 }
